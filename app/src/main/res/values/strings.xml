@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Galeria-Arte</string>
+
+    <string name="obra_1_titulo">Sailing Under the Bridge</string>
+    <string name="obra_1_autor">Kai Kwon (2017)</string>
+
+    <string name="obra_2_titulo">Still Life of Blue Rose</string>
+    <string name="obra_2_autor">Anne Vallayer (1780)</string>
+
+    <string name="obra_3_titulo">The Great Wave off Kanagawa</string>
+    <string name="obra_3_autor">Katsushika Hokusai (1831)</string>
+</resources>
